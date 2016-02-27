@@ -244,3 +244,12 @@ ol.bibliography {
 	padding-left: 1rem;
 	text-indent: -1rem;
 }
+
+blockquote {
+    border-left: 3px solid #a7b5bf;
+    color: #464C5C;
+    font-style: italic;
+    margin: 4px 0 12px 0;
+    padding: 8px 12px;
+    background-color: #F8F9FC;
+}
